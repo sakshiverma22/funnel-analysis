@@ -1,0 +1,15 @@
+segment_type,segment_value,visitors,add_to_carts,checkouts,purchases,purchase_rate,best_rate_in_group,rate_gap_pp,recoverable_purchases,priority_score
+Traffic source,Social,781,232,120,50,6.4,12.17,5.77,45.1,260.2
+Traffic source,Paid Search,1028,363,208,82,7.98,12.17,4.19,43.1,180.6
+Device,Mobile,2500,907,512,232,9.28,10.97,1.69,42.2,71.3
+Region,Central,993,340,177,83,8.36,10.94,2.58,25.6,66.0
+Region,North,985,345,209,94,9.54,10.94,1.4,13.8,19.3
+Traffic source,Referral,464,160,93,45,9.7,12.17,2.47,11.5,28.4
+Traffic source,Organic Search,1246,452,280,144,11.56,12.17,0.61,7.6,4.6
+Device,Tablet,722,260,159,73,10.11,10.97,0.86,6.2,5.3
+Region,East,998,364,226,103,10.32,10.94,0.62,6.2,3.8
+Region,West,1028,360,216,111,10.8,10.94,0.14,1.4,0.2
+Traffic source,Direct,988,387,242,119,12.04,12.17,0.13,1.3,0.2
+Device,Desktop,1778,606,390,195,10.97,10.97,0.0,0.0,0.0
+Region,South,996,364,233,109,10.94,10.94,0.0,0.0,0.0
+Traffic source,Email,493,179,118,60,12.17,12.17,0.0,0.0,0.0

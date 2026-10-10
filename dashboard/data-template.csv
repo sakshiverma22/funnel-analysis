@@ -1,0 +1,5 @@
+user_id,event_type,device_type,traffic_source,region,order_value
+U001,product_view,Mobile,Organic Search,South,
+U001,add_to_cart,Mobile,Organic Search,South,
+U001,checkout_start,Mobile,Organic Search,South,
+U001,purchase,Mobile,Organic Search,South,120
