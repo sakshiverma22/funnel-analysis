@@ -58,7 +58,7 @@ The Overview page shows the main KPIs, the complete journey map, the biggest opp
 
 
 
-![E-Commerce Funnel Overview](images/overview.png)
+![E-Commerce Funnel Overview](images/Overview.png)
 
 ![E-Commerce Funnel Full Overview](images/overview2.png)
 ### Funnel page
@@ -73,17 +73,12 @@ The Funnel page focuses only on the customer journey and shows the largest stage
 The Segments page compares devices, acquisition sources, and modeled opportunity by group.
 
 ![Segment Analysis Dashboard](images/segments.png)
-### ML Model page
-
-The ML Model page explains what the purchase-propensity model learns and how it should be interpreted.
-
-
 
 ### Data Studio page
 
 The Data Studio page explains the CSV format and how a company can bring its own event data.
 
-![Data Studio Page](images/data-studio.png)
+![Data Studio Page](images/datastudio.png)
 
 ---
 
